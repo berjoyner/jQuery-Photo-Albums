@@ -108,9 +108,6 @@ a {
 .album1Content, .album2Content, .album3Content {
  	display:none;
 }
-.welcome, .about, .resume,{
-	display: none;
-}
 
 .show {
 	display: block;
