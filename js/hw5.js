@@ -25,7 +25,6 @@ $(".album3Link").click(function(event) {
 });
 
 
-
 $(".album1Content img").click(function(event) {
       event.preventDefault();
       var $singlePic = $(this);
